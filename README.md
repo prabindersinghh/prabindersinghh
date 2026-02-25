@@ -89,7 +89,7 @@ Reduced proposal generation from 4 hours → 5 minutes.
 ## 📫 Let's Connect
 
 - 🌐 Website: [https://prabindersinghh.com](https://prabindersinghhh-website.vercel.app/)  
-- 💼 LinkedIn: [(add link)  ](https://www.linkedin.com/in/prabinder-singh-6856a431a/)
+- 💼 LinkedIn: [](https://www.linkedin.com/in/prabinder-singh-6856a431a/)
 - 📧 Email: prabindersinghh@gmail.com  
 
 ---
