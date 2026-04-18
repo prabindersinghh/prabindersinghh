@@ -107,7 +107,7 @@ India's garment manufacturing industry runs on WhatsApp, Excel, and verbal commi
 |---|---|---|
 | [`#341`](https://github.com/kubeflow/sdk/pull/341) | ✅ `/ok-to-test` | Cluster-scoped runtime fallback |
 | [`#401`](https://github.com/kubeflow/sdk/pull/401) | 📬 Under Review | `telemetry.py` — 15 unit tests |
-| [`#402`](https://github.com/kubeflow/sdk/pull/402) | 📬 Under Review | Polling validation fix |
+| [`#402`](https://github.com/kubeflow/sdk/pull/402) | ✅ **Merged** | Polling validation fix — all backends |
 
 **Architecture decisions:**
 - Centralized `kubeflow/common/telemetry.py`
