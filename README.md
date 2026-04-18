@@ -246,7 +246,7 @@ India's garment manufacturing industry runs on WhatsApp, Excel, and verbal commi
 | 🏅 Finalist | Sabka AI 2026 — TIET-UQ | FairHire360 |
 | 🏅 Finalist | ByteWars / Vibestate 2025 — Derby, UK | ProcurenAI |
 
-> **6 international competitions. 3 podiums. All in Year 1 of college.**
+> **6 international competitions. 3 podiums. All in Year 1 to 2 of college.**
 
 ---
 
