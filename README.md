@@ -297,10 +297,10 @@ India's garment manufacturing industry runs on WhatsApp, Excel, and verbal commi
 <tr>
 <td width="33%" align="center">
 
-**☁️ Google Cloud**
+**☁️ Google Gemini**
 **Student Ambassador**
 
-Cloud adoption · Developer workshops
+Gemini adoption · Developer workshops
 Community building
 
 </td>
