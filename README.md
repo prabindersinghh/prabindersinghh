@@ -32,12 +32,11 @@
 ## ◈ Who I Am
 
 ```text
-🏭  Founder @ Leorit.ai       World's first Uber for factories — built on real production data
+🏭  Building @ Leorit.ai      World's first Uber for factories — built on real production data
 🎓  B.Tech CS + Business      Thapar Institute of Engineering & Technology (2024–2028)
 🔬  Research                  IEEE paper under review — RAG-ST (Spatial Transcriptomics)
-⚙️  GSoC 2026                 Kubeflow (OTel Integration) · Metaflow (Nomad Backend)
 🏆  Hackathons                3× International Podium · 3× Global Finalist
-☁️  Ambassador                Google Cloud Student Ambassador
+☁️  Ambassador                Google Gemini Student Ambassador
 🧠  Philosophy                Execution > Experimentation · Systems > Isolated Models
 ```
 
