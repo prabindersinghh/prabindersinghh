@@ -1,5 +1,5 @@
 <!-- ══════════════════════════════════════════════════════════ HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:111827&height=160&section=header&text=Prabinder%20Singh&fontSize=46&fontColor=ffffff&fontAlignY=60&desc=AI%20Systems%20Engineer%20%E2%80%A2%20Building%20%E2%80%A2%20Open%20Source&descAlignY=80&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:111827&height=160&section=header&text=Prabinder%20Singh&fontSize=46&fontColor=ffffff&fontAlignY=60&desc=AI%20Systems%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Open%20Source&descAlignY=80&descSize=17&animation=fadeIn" width="100%"/>
 
 <!-- ══════════════════════════════════════════════════════════ TYPING BANNER -->
 <p align="center">
