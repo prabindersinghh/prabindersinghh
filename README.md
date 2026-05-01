@@ -3,7 +3,7 @@
 
 <!-- ══════════════════════════════════════════════════════════ TYPING BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=860&lines=Founder+%40+Leorit.ai+%E2%80%94+World%27s+first+Uber+for+factories+in+India;AI+Systems+Engineer+%7C+Multi-Modal+%7C+Agentic+AI+%7C+Production+ML;OpenSource+2026+Contributor+%E2%80%94+Kubeflow+OTel+%7C+Metaflow+Nomad;3%C3%97+International+Hackathon+Podium+%C2%B7+3%C3%97+Global+Finalist;Building+systems+that+move+from+research+%E2%86%92+real+industry" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=860&lines=Building+%40+Leorit.ai+%E2%80%94+World%27s+first+Uber+for+factories+in+India;AI+Systems+Engineer+%7C+Multi-Modal+%7C+Agentic+AI+%7C+Production+ML;OpenSource+2026+Contributor+%E2%80%94+Kubeflow+OTel+%7C+Metaflow+Nomad;3%C3%97+International+Hackathon+Podium+%C2%B7+3%C3%97+Global+Finalist;Building+systems+that+move+from+research+%E2%86%92+real+industry" />
 </p>
 
 <!-- ══════════════════════════════════════════════════════════ BADGES -->
