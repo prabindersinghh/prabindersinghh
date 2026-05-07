@@ -3,7 +3,7 @@
 
 <!-- ══════════════════════════════════════════════════════════ TYPING BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=860&lines=Building+%40+Leorit.ai+%E2%80%94+World%27s+first+Uber+for+factories+in+India;AI+Systems+Engineer+%7C+Multi-Modal+%7C+Agentic+AI+%7C+Production+ML;OpenSource+2026+Contributor+%E2%80%94+Kubeflow+OTel+%7C+Metaflow+Nomad;3%C3%97+International+Hackathon+Podium+%C2%B7+3%C3%97+Global+Finalist;Building+systems+that+move+from+research+%E2%86%92+real+industry" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=860&lines=Building+%40+Leorit.ai+%E2%80%94+World%27s+first+Uber+for+factories+in+India;AI+Systems+Engineer+%7C+Multi-Modal+%7C+Agentic+AI+%7C+Production+ML;CNCF+Contributor+%E2%80%94+Kubeflow+SDK+%7C+Headlamp+%7C+MLflow+%7C+Metaflow;OpenSource+2026+%E2%80%94+Kubeflow+OTel+%7C+Headlamp+Token+Expiry+Fix+%7C+Metaflow+Nomad;3%C3%97+International+Hackathon+Podium+%C2%B7+3%C3%97+Global+Finalist;Building+systems+that+move+from+research+%E2%86%92+real+industry" />
 </p>
 
 <!-- ══════════════════════════════════════════════════════════ BADGES -->
@@ -93,14 +93,31 @@ India's garment manufacturing industry runs on WhatsApp, Excel, and verbal commi
 
 ---
 
-## ◈ GSoC 2026 — Open Source Contributions
+## ◈ Open Source Contributions
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Kubeflow — OTel Integration
-`Project 7: Integrate Kubeflow SDK with OpenTelemetry · 350hrs · Hard`
+### 🔦 Headlamp — kubernetes-sigs (CNCF)
+`Active Contributor · 2026`
+
+| PR | Status | What It Does |
+|---|---|---|
+| [`#5371`](https://github.com/kubernetes-sigs/headlamp/pull/5371) | 📬 Under Review | Token expiry warning banner + auto-logout |
+
+**What the fix does:**
+- Extends backend `/me` endpoint to expose `tokenExpiry` (Unix timestamp)
+- New `TokenExpiryNotification` component — polls every 60s, shows 2-min countdown banner
+- Immediate local-expiry logout without waiting for next `/me` poll
+- 4 Vitest tests: warning threshold, future token, tokenExpired logout, route suppression
+- Reviewed by **@illume** (Microsoft · Headlamp lead maintainer)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Kubeflow — OTel Integration (CNCF)
+`GSoC 2026 Project 7: Integrate Kubeflow SDK with OpenTelemetry · 350hrs · Hard`
 
 | PR | Status | What It Does |
 |---|---|---|
@@ -117,9 +134,11 @@ India's garment manufacturing industry runs on WhatsApp, Excel, and verbal commi
 **Mentors:** @kramaranya · @dhanishaphadate · @jaiakash
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### 🔁 Metaflow — Nomad Backend
+### 🔁 Metaflow — Nomad Backend (Netflix)
 `Nomad Executor Integration · 350hrs`
 
 - Built `metaflow-nomad` repo with working backend decorator
@@ -128,14 +147,17 @@ India's garment manufacturing industry runs on WhatsApp, Excel, and verbal commi
 
 **Mentor:** Madhur Tandon
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🔓 Beyond GSoC
+### 🔓 More Contributions
 
 | Project | Contribution |
 |---|---|
+| **Headlamp** (kubernetes-sigs · CNCF) | PR #5371 — token expiry warning + auto-logout. Reviewed by @illume. |
 | **MLflow** (Linux Foundation AI) | Entity validation + protobuf serialization in Feedback/Assessment; union-type validation, tracing tests, backward compatibility |
-| **OpenMined Syft** | Persistent dataset discovery bug — sync idempotency analysis across in-memory vs persistent storage; proposed minimal fix |
+| **OpenMined Syft** | Persistent dataset discovery bug — sync idempotency analysis; proposed minimal fix |
+| **opensec-intelligence** | Published npm v3.0.1 — 4-agent TypeScript security pipeline (Scanner → Analyst → Consensus → Fixer) |
 
 </td>
 </tr>
@@ -222,7 +244,7 @@ India's garment manufacturing industry runs on WhatsApp, Excel, and verbal commi
 ### 🔐 QuantumSight
 **AI-Augmented Cryptographic Intelligence Platform** · `2026`
 
-*PSB Hackathon 2026 — PNB Cybersecurity*
+*PNB Cybersecurity Hackathon 2026 — Live Jury VC Session*
 
 - Addresses Harvest Now, Decrypt Later (HNDL) quantum threat
 - Stack: FastAPI + React 18 + PostgreSQL + Docker
@@ -238,14 +260,16 @@ India's garment manufacturing industry runs on WhatsApp, Excel, and verbal commi
 
 | Result | Event | Project |
 |---|---|---|
+| 🏅 Top 12 National Finalist | Secure Bharat: AI & Cybersecurity Summit 2026 — ISB Mohali (Punjab Police × CyberPeace Foundation) | QuantumSight |
 | 🥉 3rd + Innovation Award | AI for Sustainability 2026 — Canadian University Dubai | CIVITAS-INTEL |
 | 🥉 3rd Place | BIOS Hackathon 2025 — IEEE × CSED, Thapar | TruthShield Pro |
 | 🥉 3rd Place | Agentic AI Hackathon 2025 — University of Ulster, UK | CyberSentinel |
+| 🏅 Finalist | PNB Cybersecurity Hackathon 2026 · Live Jury VC Session | QuantumSight |
 | 🏅 Finalist | Indo-Israel International Hackathon 2025 | MediFlow Vita |
 | 🏅 Finalist | Sabka AI 2026 — TIET-UQ | FairHire360 |
 | 🏅 Finalist | ByteWars / Vibestate 2025 — Derby, UK | ProcurenAI |
 
-> **6 international competitions. 3 podiums. All in Year 1 to 2 of college.**
+> **7 international competitions. 3 podiums. All in Year 1 to 2 of college.**
 
 ---
 
@@ -267,12 +291,12 @@ India's garment manufacturing industry runs on WhatsApp, Excel, and verbal commi
 ### ⚙️ Systems & Backend
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubeflow-1a73e8?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Metaflow-FF6B6B?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microservices-374151?style=for-the-badge&logoColor=white"/>
 </p>
 
@@ -394,8 +418,9 @@ Manufacturing AI  →  Leorit captures structured execution data at scale
                       Every order = a training signal for autonomous routing
                       Long-term: software verifies manufacturing outcomes without human judgment
 
-Open Source       →  Kubeflow OTel instrumentation shipping into production
-                      Metaflow Nomad backend enabling HPC + cloud-native ML workflows
+Open Source       →  Active contributor: Kubeflow SDK (merged PR) · Headlamp (PR under mentor review)
+                      Metaflow Nomad backend · MLflow (Linux Foundation AI) · OpenMined Syft
+                      LFX Mentorship 2026 Term 2 applicant — Headlamp plugin projects (Argo CD · Agones · Tinkerbell)
 
 Research          →  IEEE ICAIB 2025 paper (RAG-ST) under review
                       Bridging spatial biology + retrieval-augmented deep learning
